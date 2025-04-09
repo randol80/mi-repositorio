@@ -1,0 +1,19 @@
+header{
+    background-color: rgba(250, 5, 5, 0.753);
+    text-align: center;
+    
+}
+img { 
+    height: 150px; ;
+    width: 600px;
+}
+section img{
+    height: 300px; ;
+    width: 200px;  
+}
+
+body{
+    text-align: center;
+    background-color: rgba(183, 224, 207, 0.705);
+}
+
